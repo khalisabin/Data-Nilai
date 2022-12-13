@@ -1,14 +1,14 @@
 {
-    "Januari":[85,20],
-    "Februari":[86,23],
-    "Maret":[88,22],
-    "April ":[90,20],
-    "Mei":[92,19],
-    "Juni":[92,12],
-    "Juli":[93,8],
-    "Agustus":[95,6],
-    "September":[96,11],
-    "Oktober":[98,15],
-    "November":[99,20],
-    "Desember":[10,10]
+    "Januari":[100,90],
+    "Februari":[120,80],
+    "Maret":[125,50],
+    "April ":[130,70],
+    "Mei":[92,83],
+    "Juni":[90,70],
+    "Juli":[80,68],
+    "Agustus":[75,60],
+    "September":[66,57],
+    "Oktober":[77,66],
+    "November":[80,70],
+    "Desember":[100,100]
     }
