@@ -1,14 +1,13 @@
 {
-"Nilai	Frekuensi"
-"85	20",
-"86	23",
-"88	22",
-"90	20",
-"92	19",
-"92	12",
-"93	8",
-"95	6",
-"96	11",
-"98	15",
-"99	20"
+"Bahasa Indonesia":[85,20],
+"Matematika":[86,23],
+"Bahasa Inggris":[88,22],
+"Agama ":[90,20],
+"Kimia":[92,19],
+"Fisika"[92,12],
+"Biologi":[93,8],
+"Ppkn":[95,6],
+"Sejarah":[96,11],
+"Geografi":[98,15],
+"Ekonomi":[99,20]
 }
